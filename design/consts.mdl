@@ -1,0 +1,5 @@
+define const age: i32 = 14;
+
+define main: fn () {
+    printf("%d\n", age)
+}

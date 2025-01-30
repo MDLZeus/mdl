@@ -1,0 +1,6 @@
+define var name: []u8 = "Juan";
+change name to "Andrew";
+
+define main: fn () {
+    printf("%s\n", name); // Andrew
+}
